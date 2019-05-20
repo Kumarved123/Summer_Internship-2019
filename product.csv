@@ -1,0 +1,701 @@
+id,segment,country,production,year,product_no
+1,Government,Canada, Carretera ,1999,1
+2,Government,Germany, Carretera ,1948,2
+3,Midmarket,France, Carretera ,1949,3
+4,Midmarket,Germany, Carretera ,1950,4
+5,Midmarket,Mexico, Carretera ,1951,5
+6,Government,Germany, Carretera ,1952,6
+7,Midmarket,Germany, Montana ,1953,7
+8,Channel Partners,Canada, Montana ,1954,8
+9,Government,France, Montana ,1955,9
+10,Channel Partners,Germany, Montana ,1956,10
+11,Midmarket,Mexico, Montana ,1957,11
+12,Enterprise,Canada, Montana ,1958,12
+13,Small Business,Mexico, Montana ,1959,13
+14,Government,Germany, Montana ,1960,14
+15,Enterprise,Canada, Montana ,1961,15
+16,Midmarket,United States of America, Montana ,1962,16
+17,Government,Canada, Paseo ,1963,17
+18,Midmarket,Mexico, Paseo ,1964,18
+19,Channel Partners,Canada, Paseo ,1965,19
+20,Government,Germany, Paseo ,1966,20
+21,Channel Partners,Germany, Paseo ,1967,21
+22,Government,Mexico, Paseo ,1968,22
+23,Midmarket,France, Paseo ,1969,23
+24,Small Business,Mexico, Paseo ,1970,24
+25,Midmarket,Mexico, Paseo ,1971,25
+26,Government,United States of America, Paseo ,1972,26
+27,Government,Canada, Paseo ,1973,27
+28,Channel Partners,United States of America, Paseo ,1974,28
+29,Midmarket,Canada, Paseo ,1975,29
+30,Government,Canada, Paseo ,1976,30
+31,Government,Germany, Paseo ,1977,31
+32,Government,Mexico, Velo ,1978,32
+33,Enterprise,France, Velo ,1979,33
+34,Channel Partners,Germany, Velo ,1822,34
+35,Government,Germany, Velo ,1948,35
+36,Channel Partners,Germany, Velo ,1949,36
+37,Enterprise,United States of America, Velo ,1950,37
+38,Enterprise,Canada, Velo ,1951,38
+39,Small Business,Canada, VTT ,1952,39
+40,Channel Partners,Germany, VTT ,1953,40
+41,Midmarket,France, VTT ,1954,41
+42,Midmarket,Germany, VTT ,1955,42
+43,Government,France, VTT ,1956,43
+44,Small Business,France, VTT ,1957,44
+45,Government,Canada, VTT ,1958,45
+46,Government,France, Amarilla ,1959,46
+47,Channel Partners,United States of America, Amarilla ,1960,47
+48,Enterprise,Germany, Amarilla ,1961,48
+49,Government,France, Amarilla ,1962,49
+50,Government,Germany, Amarilla ,1963,50
+51,Channel Partners,United States of America, Amarilla ,1964,51
+52,Government,United States of America, Amarilla ,1965,52
+53,Midmarket,United States of America, Amarilla ,1966,53
+54,Government,France, Paseo ,1967,54
+55,Midmarket,France, Paseo ,1968,55
+56,Government,France, Paseo ,1969,56
+57,Government,France, Velo ,1970,57
+58,Government,Canada, VTT ,1971,58
+59,Channel Partners,United States of America, Carretera ,1972,59
+60,Government,Mexico, Carretera ,1973,60
+61,Government,United States of America, Carretera ,1974,61
+62,Channel Partners,Canada, Carretera ,1975,62
+63,Enterprise,United States of America, Carretera ,1976,63
+64,Channel Partners,France, Carretera ,1977,64
+65,Channel Partners,Germany, Carretera ,1978,65
+66,Small Business,Mexico, Carretera ,1979,66
+67,Government,Mexico, Carretera ,1999,67
+68,Government,France, Carretera ,1948,68
+69,Midmarket,Mexico, Montana ,1949,69
+70,Small Business,United States of America, Montana ,1950,70
+71,Government,France, Montana ,1951,71
+72,Government,Canada, Montana ,1952,72
+73,Small Business,United States of America, Montana ,1953,73
+74,Enterprise,United States of America, Montana ,1954,74
+75,Midmarket,United States of America, Paseo ,1955,75
+76,Government,United States of America, Paseo ,1956,76
+77,Enterprise,United States of America, Paseo ,1957,77
+78,Enterprise,France, Paseo ,1958,78
+79,Enterprise,Mexico, Paseo ,1959,79
+80,Midmarket,Germany, Paseo ,1960,80
+81,Channel Partners,Germany, Paseo ,1961,81
+82,Small Business,United States of America, Paseo ,1962,82
+83,Government,France, Paseo ,1963,83
+84,Government,France, Velo ,1964,84
+85,Government,Mexico, Velo ,1965,85
+86,Enterprise,Canada, Velo ,1966,86
+87,Enterprise,United States of America, Velo ,1967,87
+88,Government,Canada, Velo ,1968,88
+89,Government,Germany, VTT ,1969,89
+90,Government,Canada, VTT ,1970,90
+91,Enterprise,United States of America, VTT ,1971,91
+92,Enterprise,France, VTT ,1972,92
+93,Small Business,Germany, VTT ,1973,93
+94,Small Business,Mexico, VTT ,1974,94
+95,Government,Mexico, VTT ,1975,95
+96,Enterprise,France, VTT ,1976,96
+97,Channel Partners,United States of America, Amarilla ,1977,97
+98,Midmarket,France, Amarilla ,1978,98
+99,Enterprise,Canada, Carretera ,1979,99
+100,Channel Partners,Canada, Carretera ,1822,100
+101,Small Business,Germany, Carretera ,1948,101
+102,Government,France, Carretera ,1949,102
+103,Government,Canada, Carretera ,1950,103
+104,Channel Partners,United States of America, Montana ,1951,104
+105,Government,United States of America, Montana ,1952,105
+106,Channel Partners,Mexico, Montana ,1953,106
+107,Enterprise,Mexico, Montana ,1954,107
+108,Midmarket,Canada, Paseo ,1955,108
+109,Small Business,France, Paseo ,1956,109
+110,Small Business,Germany, Paseo ,1957,110
+111,Channel Partners,United States of America, Paseo ,1958,111
+112,Enterprise,Mexico, Paseo ,1959,112
+113,Channel Partners,Canada, Paseo ,1960,113
+114,Enterprise,Germany, Paseo ,1961,114
+115,Enterprise,Mexico, Paseo ,1962,115
+116,Channel Partners,France, Paseo ,1963,116
+117,Small Business,Canada, Paseo ,1964,117
+118,Government,Canada, Paseo ,1965,118
+119,Enterprise,Canada, Paseo ,1966,119
+120,Midmarket,United States of America, Paseo ,1967,120
+121,Government,United States of America, Paseo ,1968,121
+122,Channel Partners,France, Paseo ,1969,122
+123,Channel Partners,Mexico, Paseo ,1970,123
+124,Government,United States of America, Velo ,1971,124
+125,Government,Germany, Velo ,1972,125
+126,Government,Germany, Velo ,1973,126
+127,Enterprise,Germany, Velo ,1974,127
+128,Enterprise,Mexico, Velo ,1975,128
+129,Channel Partners,France, Velo ,1976,129
+130,Government,Mexico, Velo ,1977,130
+131,Channel Partners,Mexico, Velo ,1978,131
+132,Enterprise,Mexico, VTT ,1979,132
+133,Small Business,Germany, VTT ,1999,133
+134,Government,Germany, VTT ,1948,134
+135,Enterprise,Canada, VTT ,1949,135
+136,Government,United States of America, VTT ,1950,136
+137,Government,Mexico, VTT ,1951,137
+138,Small Business,Germany, Amarilla ,1952,138
+139,Small Business,Mexico, Amarilla ,1953,139
+140,Enterprise,Germany, Amarilla ,1954,140
+141,Government,Germany, Amarilla ,1955,141
+142,Government,United States of America, Amarilla ,1956,142
+143,Government,France, Amarilla ,1957,143
+144,Small Business,Canada, Amarilla ,1958,144
+145,Enterprise,France, Carretera ,1959,145
+146,Government,Germany, Carretera ,1960,146
+147,Small Business,Germany, Carretera ,1961,147
+148,Channel Partners,United States of America, Carretera ,1962,148
+149,Channel Partners,Canada, Carretera ,1963,149
+150,Government,Germany, Montana ,1964,150
+151,Channel Partners,France, Montana ,1965,151
+152,Government,France, Montana ,1966,152
+153,Government,Germany, Montana ,1967,153
+154,Enterprise,France, Montana ,1968,154
+155,Enterprise,Germany, Montana ,1969,155
+156,Small Business,France, Paseo ,1970,156
+157,Enterprise,Canada, Paseo ,1971,157
+158,Channel Partners,France, Paseo ,1972,158
+159,Small Business,Germany, Paseo ,1973,159
+160,Enterprise,Germany, Paseo ,1974,160
+161,Channel Partners,United States of America, Paseo ,1975,161
+162,Enterprise,Canada, Paseo ,1976,162
+163,Midmarket,Germany, Paseo ,1977,163
+164,Enterprise,France, Paseo ,1978,164
+165,Enterprise,Germany, Paseo ,1979,165
+166,Enterprise,Canada, Velo ,1822,166
+167,Small Business,United States of America, VTT ,1948,167
+168,Channel Partners,Mexico, VTT ,1949,168
+169,Enterprise,Germany, VTT ,1950,169
+170,Small Business,Canada, VTT ,1951,170
+171,Government,Mexico, VTT ,1952,171
+172,Midmarket,Germany, VTT ,1953,172
+173,Government,Canada, Carretera ,1954,173
+174,Government,Mexico, Paseo ,1955,174
+175,Government,Canada, Velo ,1956,175
+176,Channel Partners,Germany, VTT ,1957,176
+177,Midmarket,Mexico, Montana ,1958,177
+178,Midmarket,Mexico, Paseo ,1959,178
+179,Midmarket,France, Paseo ,1960,179
+180,Government,United States of America, Velo ,1961,180
+181,Government,Canada, Carretera ,1962,181
+182,Small Business,Germany, Carretera ,1963,182
+183,Government,United States of America, Carretera ,1964,183
+184,Midmarket,Canada, Montana ,1965,184
+185,Small Business,Germany, Montana ,1966,185
+186,Government,Canada, Montana ,1967,186
+187,Small Business,Germany, Montana ,1968,187
+188,Enterprise,Mexico, Montana ,1969,188
+189,Government,Canada, Paseo ,1970,189
+190,Enterprise,Germany, Paseo ,1971,190
+191,Small Business,Germany, Paseo ,1972,191
+192,Small Business,United States of America, Paseo ,1973,192
+193,Government,United States of America, Paseo ,1974,193
+194,Enterprise,France, Paseo ,1975,194
+195,Midmarket,Canada, Paseo ,1976,195
+196,Government,Canada, Paseo ,1977,196
+197,Government,United States of America, Paseo ,1978,197
+198,Midmarket,United States of America, Paseo ,1979,198
+199,Midmarket,Mexico, Paseo ,1999,199
+200,Government,United States of America, Paseo ,1948,200
+201,Enterprise,Mexico, Paseo ,1949,201
+202,Channel Partners,United States of America, Velo ,1950,202
+203,Government,Canada, Velo ,1951,203
+204,Government,France, Velo ,1952,204
+205,Channel Partners,France, VTT ,1953,205
+206,Government,United States of America, VTT ,1954,206
+207,Government,France, VTT ,1955,207
+208,Midmarket,Mexico, VTT ,1956,208
+209,Government,Mexico, Amarilla ,1957,209
+210,Enterprise,Mexico, Amarilla ,1958,210
+211,Government,Germany, Amarilla ,1959,211
+212,Midmarket,United States of America, Amarilla ,1960,212
+213,Government,Canada, Amarilla ,1961,213
+214,Government,Germany, Montana ,1962,214
+215,Government,Germany, Paseo ,1963,215
+216,Government,Canada, Paseo ,1964,216
+217,Government,Mexico, Paseo ,1965,217
+218,Channel Partners,Canada, Paseo ,1966,218
+219,Channel Partners,Canada, Velo ,1967,219
+220,Government,Mexico, VTT ,1968,220
+221,Government,Mexico, Amarilla ,1969,221
+222,Channel Partners,Mexico, Amarilla ,1970,222
+223,Government,Germany, Amarilla ,1971,223
+224,Channel Partners,France, Carretera ,1972,224
+225,Channel Partners,Germany, Carretera ,1973,225
+226,Government,France, Carretera ,1974,226
+227,Small Business,United States of America, Carretera ,1975,227
+228,Government,Germany, Carretera ,1976,228
+229,Midmarket,Mexico, Carretera ,1977,229
+230,Government,United States of America, Carretera ,1978,230
+231,Government,France, Carretera ,1979,231
+232,Government,France, Montana ,1822,232
+233,Enterprise,United States of America, Montana ,1948,233
+234,Government,Mexico, Montana ,1949,234
+235,Channel Partners,Germany, Montana ,1950,235
+236,Small Business,Mexico, Montana ,1951,236
+237,Government,France, Paseo ,1952,237
+238,Enterprise,United States of America, Paseo ,1953,238
+239,Enterprise,France, Paseo ,1954,239
+240,Small Business,Mexico, Paseo ,1955,240
+241,Government,United States of America, Paseo ,1956,241
+242,Small Business,United States of America, Paseo ,1957,242
+243,Government,United States of America, Paseo ,1958,243
+244,Midmarket,France, Paseo ,1959,244
+245,Government,Canada, Paseo ,1960,245
+246,Government,Canada, Paseo ,1961,246
+247,Enterprise,United States of America, Paseo ,1962,247
+248,Enterprise,France, Paseo ,1963,248
+249,Government,Canada, Paseo ,1964,249
+250,Government,United States of America, Paseo ,1965,250
+251,Government,France, Paseo ,1966,251
+252,Midmarket,Germany, Paseo ,1967,252
+253,Midmarket,United States of America, Velo ,1968,253
+254,Midmarket,Mexico, Velo ,1969,254
+255,Enterprise,Germany, Velo ,1970,255
+256,Government,United States of America, Velo ,1971,256
+257,Government,United States of America, Velo ,1972,257
+258,Government,France, Velo ,1973,258
+259,Enterprise,United States of America, Velo ,1974,259
+260,Enterprise,France, Velo ,1975,260
+261,Government,France, Velo ,1976,261
+262,Small Business,Germany, Velo ,1977,262
+263,Government,Canada, VTT ,1978,263
+264,Government,United States of America, VTT ,1979,264
+265,Government,Germany, VTT ,1999,265
+266,Government,United States of America, VTT ,1948,266
+267,Government,United States of America, VTT ,1949,267
+268,Government,France, VTT ,1950,268
+269,Government,Germany, Amarilla ,1951,269
+270,Government,Canada, Amarilla ,1952,270
+271,Government,Canada, Amarilla ,1953,271
+272,Small Business,Germany, Amarilla ,1954,272
+273,Midmarket,France, Paseo ,1955,273
+274,Government,United States of America, Carretera ,1956,274
+275,Midmarket,Canada, Carretera ,1957,275
+276,Channel Partners,Mexico, Carretera ,1958,276
+277,Channel Partners,Canada, Carretera ,1959,277
+278,Midmarket,United States of America, Carretera ,1960,278
+279,Government,United States of America, Carretera ,1961,279
+280,Enterprise,Germany, Carretera ,1962,280
+281,Government,Mexico, Montana ,1963,281
+282,Government,Germany, Montana ,1964,282
+283,Government,France, Montana ,1965,283
+284,Channel Partners,United States of America, Montana ,1966,284
+285,Government,France, Paseo ,1967,285
+286,Channel Partners,Canada, Paseo ,1968,286
+287,Government,United States of America, Paseo ,1969,287
+288,Enterprise,Canada, Velo ,1970,288
+289,Enterprise,United States of America, Velo ,1971,289
+290,Midmarket,Germany, Velo ,1972,290
+291,Government,France, Velo ,1973,291
+292,Government,Mexico, Velo ,1974,292
+293,Small Business,France, Velo ,1975,293
+294,Government,France, Velo ,1976,294
+295,Midmarket,Canada, VTT ,1977,295
+296,Government,Mexico, VTT ,1978,296
+297,Small Business,France, VTT ,1979,297
+298,Government,Mexico, VTT ,1822,298
+299,Small Business,Canada, VTT ,1948,299
+300,Enterprise,France, Amarilla ,1949,300
+301,Government,Mexico, Amarilla ,1950,301
+302,Government,United States of America, Amarilla ,1951,302
+303,Government,France, Amarilla ,1952,303
+304,Government,France, Amarilla ,1953,304
+305,Government,France, Montana ,1954,305
+306,Midmarket,United States of America, Paseo ,1955,306
+307,Midmarket,Germany, Paseo ,1956,307
+308,Midmarket,United States of America, Paseo ,1957,308
+309,Government,France, Paseo ,1958,309
+310,Government,Germany, Velo ,1959,310
+311,Government,Mexico, Velo ,1960,311
+312,Midmarket,United States of America, VTT ,1961,312
+313,Channel Partners,Mexico, Carretera ,1962,313
+314,Channel Partners,Canada, Carretera ,1963,314
+315,Government,Mexico, Carretera ,1964,315
+316,Channel Partners,Mexico, Montana ,1965,316
+317,Channel Partners,France, Montana ,1966,317
+318,Government,France, Paseo ,1967,318
+319,Midmarket,Canada, Velo ,1968,319
+320,Government,Canada, Velo ,1969,320
+321,Government,United States of America, Velo ,1970,321
+322,Government,Canada, Velo ,1971,322
+323,Channel Partners,France, VTT ,1972,323
+324,Channel Partners,Germany, VTT ,1973,324
+325,Government,Canada, VTT ,1974,325
+326,Government,Canada, Amarilla ,1975,326
+327,Government,United States of America, Carretera ,1976,327
+328,Small Business,France, Carretera ,1977,328
+329,Small Business,France, Carretera ,1978,329
+330,Government,France, Montana ,1979,330
+331,Small Business,France, Montana ,1999,331
+332,Enterprise,Germany, Montana ,1948,332
+333,Small Business,Canada, Paseo ,1949,333
+334,Small Business,France, Paseo ,1950,334
+335,Enterprise,Germany, Paseo ,1951,335
+336,Midmarket,France, Paseo ,1952,336
+337,Midmarket,United States of America, Paseo ,1953,337
+338,Government,France, Paseo ,1954,338
+339,Small Business,Germany, Paseo ,1955,339
+340,Small Business,Canada, Paseo ,1956,340
+341,Channel Partners,Mexico, Paseo ,1957,341
+342,Government,Germany, Paseo ,1958,342
+343,Small Business,France, Velo ,1959,343
+344,Government,Mexico, Velo ,1960,344
+345,Enterprise,Germany, Velo ,1961,345
+346,Government,France, Velo ,1962,346
+347,Government,United States of America, Velo ,1963,347
+348,Small Business,United States of America, Velo ,1964,348
+349,Government,Germany, Velo ,1965,349
+350,Channel Partners,Canada, VTT ,1966,350
+351,Small Business,France, VTT ,1967,351
+352,Small Business,Mexico, VTT ,1968,352
+353,Enterprise,Canada, Amarilla ,1969,353
+354,Government,France, Amarilla ,1970,354
+355,Enterprise,Germany, Amarilla ,1971,355
+356,Government,Canada, Amarilla ,1972,356
+357,Small Business,United States of America, Amarilla ,1973,357
+358,Government,Canada, Montana ,1974,358
+359,Government,United States of America, Montana ,1975,359
+360,Government,Canada, Paseo ,1976,360
+361,Government,United States of America, Amarilla ,1977,361
+362,Enterprise,Mexico, Carretera ,1978,362
+363,Midmarket,France, Carretera ,1979,363
+364,Government,Mexico, Carretera ,1822,364
+365,Midmarket,France, Montana ,1948,365
+366,Government,Canada, Montana ,1949,366
+367,Government,Germany, Montana ,1950,367
+368,Small Business,France, Montana ,1951,368
+369,Small Business,Canada, Montana ,1952,369
+370,Midmarket,Germany, Montana ,1953,370
+371,Enterprise,Mexico, Paseo ,1954,371
+372,Government,Germany, Paseo ,1955,372
+373,Government,Germany, Paseo ,1956,373
+374,Government,Germany, Paseo ,1957,374
+375,Small Business,Mexico, Paseo ,1958,375
+376,Government,United States of America, Paseo ,1959,376
+377,Government,Germany, Paseo ,1960,377
+378,Government,Germany, Paseo ,1961,378
+379,Government,Germany, Paseo ,1962,379
+380,Government,Mexico, Paseo ,1963,380
+381,Government,Germany, Paseo ,1964,381
+382,Government,Mexico, Paseo ,1965,382
+383,Government,Mexico, Paseo ,1966,383
+384,Channel Partners,Canada, Velo ,1967,384
+385,Government,United States of America, Velo ,1968,385
+386,Government,Germany, Velo ,1969,386
+387,Small Business,France, Velo ,1970,387
+388,Small Business,Mexico, Velo ,1971,388
+389,Government,France, VTT ,1972,389
+390,Government,Germany, VTT ,1973,390
+391,Government,France, VTT ,1974,391
+392,Government,Germany, VTT ,1975,392
+393,Small Business,Canada, VTT ,1976,393
+394,Small Business,United States of America, VTT ,1977,394
+395,Government,Canada, Amarilla ,1978,395
+396,Government,United States of America, Amarilla ,1979,396
+397,Government,Germany, Amarilla ,1999,397
+398,Small Business,Mexico, Amarilla ,1948,398
+399,Government,Germany, Amarilla ,1949,399
+400,Midmarket,Germany, Amarilla ,1950,400
+401,Channel Partners,Mexico, Amarilla ,1951,401
+402,Small Business,Mexico, Amarilla ,1952,402
+403,Government,United States of America, VTT ,1953,403
+404,Small Business,Canada, Carretera ,1954,404
+405,Channel Partners,Mexico, Carretera ,1955,405
+406,Small Business,Canada, Montana ,1956,406
+407,Government,France, Montana ,1957,407
+408,Small Business,France, Montana ,1958,408
+409,Channel Partners,Canada, Montana ,1959,409
+410,Enterprise,France, Montana ,1960,410
+411,Government,Canada, Montana ,1961,411
+412,Enterprise,United States of America, Montana ,1962,412
+413,Small Business,Germany, Montana ,1963,413
+414,Small Business,Mexico, Paseo ,1964,414
+415,Government,Mexico, Paseo ,1965,415
+416,Midmarket,United States of America, Paseo ,1966,416
+417,Small Business,Canada, Paseo ,1967,417
+418,Midmarket,France, Paseo ,1968,418
+419,Channel Partners,Mexico, Paseo ,1969,419
+420,Small Business,France, Paseo ,1970,420
+421,Channel Partners,Germany, Paseo ,1971,421
+422,Enterprise,United States of America, Paseo ,1972,422
+423,Midmarket,Mexico, Velo ,1973,423
+424,Small Business,Canada, Velo ,1974,424
+425,Government,Germany, Velo ,1975,425
+426,Enterprise,Canada, Velo ,1976,426
+427,Enterprise,Mexico, Velo ,1977,427
+428,Government,Canada, Velo ,1978,428
+429,Channel Partners,United States of America, VTT ,1979,429
+430,Small Business,Germany, VTT ,1822,430
+431,Government,United States of America, VTT ,1948,431
+432,Channel Partners,Germany, VTT ,1949,432
+433,Small Business,United States of America, VTT ,1950,433
+434,Channel Partners,France, VTT ,1951,434
+435,Midmarket,France, VTT ,1952,435
+436,Enterprise,Mexico, VTT ,1953,436
+437,Government,United States of America, Amarilla ,1954,437
+438,Government,Canada, Amarilla ,1955,438
+439,Midmarket,Germany, Amarilla ,1956,439
+440,Government,Mexico, Amarilla ,1957,440
+441,Government,Germany, Carretera ,1958,441
+442,Government,Canada, Carretera ,1959,442
+443,Channel Partners,Germany, Carretera ,1960,443
+444,Government,Mexico, Carretera ,1961,444
+445,Government,United States of America, Paseo ,1962,445
+446,Government,Mexico, Paseo ,1963,446
+447,Government,Germany, Paseo ,1964,447
+448,Channel Partners,France, Velo ,1965,448
+449,Midmarket,Mexico, Velo ,1966,449
+450,Government,Germany, VTT ,1967,450
+451,Government,France, VTT ,1968,451
+452,Government,Mexico, VTT ,1969,452
+453,Government,Mexico, Amarilla ,1970,453
+454,Midmarket,Canada, Amarilla ,1971,454
+455,Channel Partners,France, Amarilla ,1972,455
+456,Channel Partners,United States of America, Carretera ,1973,456
+457,Government,United States of America, Montana ,1974,457
+458,Channel Partners,United States of America, Paseo ,1975,458
+459,Enterprise,United States of America, Carretera ,1976,459
+460,Enterprise,France, Carretera ,1977,460
+461,Government,United States of America, Montana ,1978,461
+462,Enterprise,United States of America, Montana ,1979,462
+463,Midmarket,France, Montana ,1999,463
+464,Government,France, Paseo ,1948,464
+465,Small Business,Mexico, Paseo ,1949,465
+466,Midmarket,France, Paseo ,1950,466
+467,Government,Germany, Paseo ,1951,467
+468,Midmarket,Germany, Velo ,1952,468
+469,Midmarket,Germany, Velo ,1953,469
+470,Midmarket,United States of America, Velo ,1954,470
+471,Government,France, Velo ,1955,471
+472,Enterprise,United States of America, Velo ,1956,472
+473,Small Business,United States of America, Velo ,1957,473
+474,Government,Germany, Velo ,1958,474
+475,Government,Germany, Velo ,1959,475
+476,Enterprise,Canada, Velo ,1960,476
+477,Small Business,France, Velo ,1961,477
+478,Enterprise,Mexico, VTT ,1962,478
+479,Midmarket,Mexico, VTT ,1963,479
+480,Government,United States of America, VTT ,1964,480
+481,Small Business,Mexico, VTT ,1965,481
+482,Small Business,United States of America, VTT ,1966,482
+483,Midmarket,France, VTT ,1967,483
+484,Enterprise,Canada, VTT ,1968,484
+485,Government,Germany, VTT ,1969,485
+486,Enterprise,United States of America, Amarilla ,1970,486
+487,Government,Canada, Amarilla ,1971,487
+488,Small Business,United States of America, Amarilla ,1972,488
+489,Channel Partners,Canada, Amarilla ,1973,489
+490,Government,Mexico, Amarilla ,1974,490
+491,Channel Partners,Germany, Amarilla ,1975,491
+492,Government,Canada, Amarilla ,1976,492
+493,Midmarket,France, Amarilla ,1977,493
+494,Small Business,France, Amarilla ,1978,494
+495,Channel Partners,France, Carretera ,1979,495
+496,Government,France, Paseo ,1822,496
+497,Channel Partners,France, Paseo ,1948,497
+498,Midmarket,Canada, Velo ,1949,498
+499,Channel Partners,Germany, Velo ,1950,499
+500,Government,United States of America, VTT ,1951,500
+501,Channel Partners,Mexico, VTT ,1952,501
+502,Midmarket,United States of America, Amarilla ,1953,502
+503,Channel Partners,Germany, Amarilla ,1954,503
+504,Channel Partners,Canada, Carretera ,1955,504
+505,Government,Germany, Carretera ,1956,505
+506,Small Business,Germany, Carretera ,1957,506
+507,Enterprise,France, Carretera ,1958,507
+508,Midmarket,Canada, Carretera ,1959,508
+509,Government,Mexico, Carretera ,1960,509
+510,Government,Germany, Montana ,1961,510
+511,Government,Germany, Montana ,1962,511
+512,Midmarket,Mexico, Montana ,1963,512
+513,Small Business,Canada, Paseo ,1964,513
+514,Government,Mexico, Paseo ,1965,514
+515,Government,Canada, Paseo ,1966,515
+516,Channel Partners,Canada, Paseo ,1967,516
+517,Channel Partners,France, Paseo ,1968,517
+518,Government,Canada, Paseo ,1969,518
+519,Midmarket,Mexico, Paseo ,1970,519
+520,Enterprise,France, Paseo ,1971,520
+521,Government,Germany, Paseo ,1972,521
+522,Small Business,Canada, Paseo ,1973,522
+523,Government,France, Velo ,1974,523
+524,Midmarket,Mexico, Velo ,1975,524
+525,Government,Mexico, Velo ,1976,525
+526,Government,Canada, Velo ,1977,526
+527,Channel Partners,France, VTT ,1978,527
+528,Enterprise,Mexico, VTT ,1979,528
+529,Government,Canada, VTT ,1999,529
+530,Enterprise,Germany, Amarilla ,1948,530
+531,Government,Mexico, Amarilla ,1949,531
+532,Enterprise,France, Amarilla ,1950,532
+533,Enterprise,Mexico, Amarilla ,1951,533
+534,Government,Mexico, Amarilla ,1952,534
+535,Midmarket,Mexico, Amarilla ,1953,535
+536,Government,United States of America, Paseo ,1954,536
+537,Government,Mexico, Carretera ,1955,537
+538,Enterprise,Canada, Carretera ,1956,538
+539,Enterprise,Mexico, Carretera ,1957,539
+540,Midmarket,Canada, Carretera ,1958,540
+541,Midmarket,United States of America, Montana ,1959,541
+542,Small Business,France, Montana ,1960,542
+543,Government,Mexico, Montana ,1961,543
+544,Government,Canada, Montana ,1962,544
+545,Government,Mexico, Montana ,1963,545
+546,Small Business,France, Montana ,1964,546
+547,Small Business,United States of America, Paseo ,1965,547
+548,Government,Mexico, Paseo ,1966,548
+549,Enterprise,Mexico, Paseo ,1967,549
+550,Government,Mexico, Paseo ,1968,550
+551,Government,Mexico, Paseo ,1969,551
+552,Government,France, Paseo ,1970,552
+553,Small Business,Germany, Paseo ,1971,553
+554,Small Business,Mexico, Paseo ,1972,554
+555,Government,Mexico, Paseo ,1973,555
+556,Midmarket,Mexico, Paseo ,1974,556
+557,Government,Mexico, Paseo ,1975,557
+558,Government,Mexico, Velo ,1976,558
+559,Government,United States of America, Velo ,1977,559
+560,Government,Mexico, Velo ,1978,560
+561,Channel Partners,Canada, VTT ,1979,561
+562,Midmarket,France, VTT ,1822,562
+563,Government,Canada, VTT ,1948,563
+564,Government,United States of America, VTT ,1949,564
+565,Enterprise,United States of America, VTT ,1950,565
+566,Government,Mexico, VTT ,1951,566
+567,Government,United States of America, Amarilla ,1952,567
+568,Government,France, Amarilla ,1953,568
+569,Government,Canada, Amarilla ,1954,569
+570,Midmarket,United States of America, Amarilla ,1955,570
+571,Government,France, Carretera ,1956,571
+572,Channel Partners,Mexico, Montana ,1957,572
+573,Government,Germany, Paseo ,1958,573
+574,Government,France, VTT ,1959,574
+575,Government,Germany, VTT ,1960,575
+576,Channel Partners,Canada, Amarilla ,1961,576
+577,Midmarket,United States of America, Carretera ,1962,577
+578,Midmarket,United States of America, VTT ,1963,578
+579,Government,Canada, Carretera ,1964,579
+580,Government,France, Carretera ,1965,580
+581,Government,Germany, Carretera ,1966,581
+582,Government,United States of America, Montana ,1967,582
+583,Government,United States of America, Montana ,1968,583
+584,Channel Partners,Mexico, Montana ,1969,584
+585,Government,Mexico, Montana ,1970,585
+586,Government,Canada, Montana ,1971,586
+587,Government,United States of America, Paseo ,1972,587
+588,Small Business,Germany, Paseo ,1973,588
+589,Government,United States of America, Paseo ,1974,589
+590,Government,Germany, Paseo ,1975,590
+591,Government,Canada, Paseo ,1976,591
+592,Enterprise,Canada, Paseo ,1977,592
+593,Channel Partners,Mexico, Paseo ,1978,593
+594,Government,France, Paseo ,1979,594
+595,Midmarket,Canada, Paseo ,1999,595
+596,Government,Canada, Paseo ,1948,596
+597,Government,Germany, Paseo ,1949,597
+598,Channel Partners,Germany, Paseo ,1950,598
+599,Midmarket,France, Velo ,1951,599
+600,Government,Canada, Velo ,1952,600
+601,Government,France, Velo ,1953,601
+602,Channel Partners,Mexico, Velo ,1954,602
+603,Midmarket,Germany, Velo ,1955,603
+604,Channel Partners,Mexico, Velo ,1956,604
+605,Small Business,Mexico, Velo ,1957,605
+606,Channel Partners,Germany, Velo ,1958,606
+607,Enterprise,Canada, VTT ,1959,607
+608,Midmarket,Canada, VTT ,1960,608
+609,Enterprise,Canada, Amarilla ,1961,609
+610,Government,France, Amarilla ,1962,610
+611,Channel Partners,Mexico, Amarilla ,1963,611
+612,Channel Partners,Germany, Amarilla ,1964,612
+613,Government,Mexico, Carretera ,1965,613
+614,Government,United States of America, Carretera ,1966,614
+615,Government,United States of America, Carretera ,1967,615
+616,Government,Germany, Carretera ,1968,616
+617,Government,France, Montana ,1969,617
+618,Government,United States of America, Montana ,1970,618
+619,Midmarket,Germany, Paseo ,1971,619
+620,Government,Canada, Paseo ,1972,620
+621,Midmarket,United States of America, Paseo ,1973,621
+622,Channel Partners,France, Paseo ,1974,622
+623,Government,Germany, VTT ,1975,623
+624,Channel Partners,France, Amarilla ,1976,624
+625,Channel Partners,United States of America, Amarilla ,1977,625
+626,Small Business,Mexico, Carretera ,1978,626
+627,Enterprise,France, Carretera ,1979,627
+628,Small Business,Canada, Carretera ,1822,628
+629,Small Business,United States of America, Carretera ,1948,629
+630,Midmarket,Germany, Carretera ,1949,630
+631,Midmarket,Canada, Carretera ,1950,631
+632,Enterprise,Mexico, Carretera ,1951,632
+633,Government,Canada, Montana ,1952,633
+634,Government,Germany, Montana ,1953,634
+635,Government,Canada, Montana ,1954,635
+636,Government,Canada, Montana ,1955,636
+637,Government,Mexico, Montana ,1956,637
+638,Midmarket,Canada, Montana ,1957,638
+639,Government,Mexico, Paseo ,1958,639
+640,Midmarket,Canada, Paseo ,1959,640
+641,Midmarket,Canada, Paseo ,1960,641
+642,Channel Partners,United States of America, Paseo ,1961,642
+643,Government,France, Paseo ,1962,643
+644,Government,Canada, Paseo ,1963,644
+645,Channel Partners,Canada, Paseo ,1964,645
+646,Government,United States of America, Paseo ,1965,646
+647,Government,France, Paseo ,1966,647
+648,Enterprise,Mexico, Velo ,1967,648
+649,Government,United States of America, Velo ,1968,649
+650,Small Business,United States of America, Velo ,1969,650
+651,Small Business,Canada, Velo ,1970,651
+652,Small Business,Germany, Velo ,1971,652
+653,Government,Mexico, VTT ,1972,653
+654,Small Business,United States of America, VTT ,1973,654
+655,Small Business,Canada, VTT ,1974,655
+656,Small Business,Canada, VTT ,1975,656
+657,Small Business,United States of America, VTT ,1976,657
+658,Government,France, VTT ,1977,658
+659,Small Business,Canada, Amarilla ,1978,659
+660,Enterprise,United States of America, Amarilla ,1979,660
+661,Channel Partners,France, Amarilla ,1999,661
+662,Midmarket,Canada, Amarilla ,1948,662
+663,Channel Partners,United States of America, Amarilla ,1949,663
+664,Government,France, Amarilla ,1950,664
+665,Government,Mexico, Amarilla ,1951,665
+666,Midmarket,Mexico, Amarilla ,1952,666
+667,Enterprise,France, Carretera ,1953,667
+668,Enterprise,Germany, Carretera ,1954,668
+669,Enterprise,Germany, Carretera ,1955,669
+670,Small Business,Mexico, Montana ,1956,670
+671,Government,Germany, Paseo ,1957,671
+672,Midmarket,Canada, Paseo ,1958,672
+673,Government,Mexico, Paseo ,1959,673
+674,Government,Mexico, Paseo ,1960,674
+675,Midmarket,Canada, Paseo ,1961,675
+676,Government,United States of America, Paseo ,1962,676
+677,Enterprise,Germany, Paseo ,1963,677
+678,Midmarket,Germany, Paseo ,1964,678
+679,Government,United States of America, Paseo ,1965,679
+680,Government,Mexico, Paseo ,1966,680
+681,Channel Partners,United States of America, Paseo ,1967,681
+682,Government,France, Paseo ,1968,682
+683,Channel Partners,Mexico, Velo ,1969,683
+684,Midmarket,France, Velo ,1970,684
+685,Enterprise,France, Velo ,1971,685
+686,Small Business,United States of America, Velo ,1972,686
+687,Enterprise,United States of America, Velo ,1973,687
+688,Channel Partners,United States of America, Velo ,1974,688
+689,Government,Canada, VTT ,1975,689
+690,Midmarket,Germany, VTT ,1976,690
+691,Government,United States of America, VTT ,1977,691
+692,Midmarket,Germany, VTT ,1978,692
+693,Enterprise,Canada, VTT ,1979,693
+694,Enterprise,Germany, VTT ,1822,694
+695,Government,France, VTT ,1948,695
+696,Small Business,France, Amarilla ,1949,696
+697,Small Business,Mexico, Amarilla ,1950,697
+698,Government,Mexico, Montana ,1951,698
+699,Government,Canada, Paseo ,1952,699
+700,Channel Partners,United States of America, VTT ,1953,700
